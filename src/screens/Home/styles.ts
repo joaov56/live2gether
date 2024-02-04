@@ -8,4 +8,6 @@ export const StyledView = styled.SafeAreaView`
 
 `;
 
-export const StyledText = styled.Text``;
+export const StyledText = styled.Text`
+    font-family: 'OpenSans'
+`;
