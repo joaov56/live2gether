@@ -2,7 +2,7 @@ import styled from 'styled-components/native'
 
 export const StyledView = styled.SafeAreaView`
     flex: 1;
-    width: 200px;
+    width: 100%;
     flex-direction: row;
     flex-shrink: 1;
     flex-wrap: wrap;
